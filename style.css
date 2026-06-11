@@ -1,1 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+}
 
+
+header{
+    background-color: green;
+    height : 4em;
+    color: white;
+    text-align: center;
+}
+
+main{
+
+}
+
+footer{
+    background-color: rgb(182, 235, 182);
+}

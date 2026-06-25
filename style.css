@@ -3,6 +3,10 @@
     padding:0px;
 }
 
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+}
 
 header{
     background-color: green;
@@ -11,10 +15,12 @@ header{
     text-align: center;
 }
 
-main{
-
+footer{
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
 }
 
-footer{
-    background-color: rgb(182, 235, 182);
+main{
+    background: rgb(134, 107, 97);
 }
